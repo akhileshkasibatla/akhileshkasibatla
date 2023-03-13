@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZiNTE2NTlhYTg3OWY3YWQyYTRiMTk4ZjE2OWIxOTM2NzZiYThlYiZjdD1n/3o7qDPxorBbvpB1Pby/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZiNTE2NTlhYTg3OWY3YWQyYTRiMTk4ZjE2OWIxOTM2NzZiYThlYiZjdD1n/3o7qDPxorBbvpB1Pby/giphy.gif"/>
 </div>
 <br/>
 <div id="badges" align="center">
@@ -14,7 +14,6 @@
   </a>
 </div>
 
-### Hi there 👋
 
 <!--
 **akhileshkasibatla/akhileshkasibatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
